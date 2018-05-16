@@ -1,0 +1,155 @@
+<html>
+    <head>
+
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+        <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+		<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<!--font-->	
+		<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans" rel="stylesheet">
+		
+<!--CSS-->	
+		<link href="css/mystyle.css" rel="stylesheet">
+		<link href="css/breakpoint.css" rel="stylesheet">
+<!--ICON FROM https://websygen.github.io/owfont/-->		
+		<link href="css/owfont-regular.css" rel="stylesheet" type="text/css">
+    </head>
+<body>
+        <!-- Page 1 -->
+    <div data-role="page" id="page">
+        <div data-role="panel" id="myPanel" data-display="" data-position="left">
+                <div id="leon"><h2> Leon's Weather App</h2></div>
+                <div class="containing-element">
+					<div class="container">
+						<div data-role="ui-content">
+								<div data-role="form" id="sigupform">
+									<div class="form-group">
+										<label class="yellow">Email</label>
+										<input type="email" id="form-email" class="form-control"
+												placeholder="Enter your email">
+									</div>
+									<div class="form-group">
+										<label class="yellow">Password</label>
+										<input type="password" id="form-password" class="form-control"
+												placeholder="Enter Password">
+									</div>
+									<input type="submit" id="signup" data-role="button" data-theme="a" value="Sign Up"
+											onclick="handleSignUp();">
+									<input type="submit" id="signin" class="btn btn-warning" value="Sign In"
+											onclick="handleSignIn();">
+									<input type="submit" id="signout" class="btn btn-danger" value="Sign Out"
+											onclick="handleSignOut();">
+									<input type="submit" id="fblogin" class="btn btn-info" value="Facebook Login"
+											onclick="handleFBLogin();">
+									<input type="submit" id="googlelogin" class="btn btn-info" value="Google Login"
+											onclick="handlegoogleLogin();">
+								</div>
+						</div>
+					</div>			
+								
+				</div>
+        </div>
+            
+		<div data-role="header" data-position="fixed">
+			<div data-role="ui-content" data-position="fixed">
+					
+					<div id="bb">
+					<a href="#myPanel" class="ui-btn ui-btn-left ui-shadow ui-corner-all ui-icon-gear ui-btn-icon-notext"></a>
+					</div>
+					
+				
+				<fieldset data-role="controlgroup" data-type="horizontal" id="fk">
+					<a href=""> <input type="search" id="city" class="search-control-group form-control" placeholder="City Name"
+					data-wrapper-class="controlgroup-textinput ui-btn"></a>
+					<a href=""><button id="submitWeather">Search City</button></a>
+				</fieldset>
+				
+				
+			</div>
+		</div>	
+			
+		<div data-role="main" id="bg" class="ui-content" data-position="fixed">
+			<fieldset class="ui-grid">
+						
+					<div id="demo" class="ui-grid"></div>
+					<div id="show" class="ui-grid"></div>
+					<div id="city_n" class="ui-grid"></div>
+					
+					<div class="ui-grid-b ui-responsive">
+						
+						<div class="ui-block-a">
+							<div class="ui-body ui-body-d">
+								<div id="fTemp" class="hidden"></div>
+								<div id="cTemp"></div>
+								
+								<select name="flip-min" id="flip-min" data-role="slider">
+									<option value="off">F</option>
+									<option value="on">C</option>
+								</select>
+								
+								
+
+
+								
+							</div>
+						</div>
+						
+						<div class="ui-block-b">
+							<div class="ui-body ui-body-d">
+								<div id="w_id"></div>
+							</div>
+						</div>
+						
+						<div class="ui-block-c">
+							<div class="ui-body ui-body-d">
+								<div id="weather"></div>
+								<div id="weather_main"></div>
+								<div id="humidity"></div>
+								<div id="windSpeed"></div>
+								<div id="sunRise"></div>
+							</div>
+						</div>
+					</div>
+					
+					
+					<div class="ui-grid-b">	
+						<div id="fTemp" class="ui-block-a"></div>
+						
+						<div id="w_id" class="ui-block-b"></div>
+						
+						<div class="ui-block-c">
+							<div id="weather"></div>
+							<div id="weather_main"></div>
+							<div id="humidity"></div>
+							<div id="windSpeed"></div>
+							<div id="sunRise"></div>
+						</div>
+					</div>
+					
+						
+						
+					
+					<div class="imgg ui-grid">
+					<center><img src="img/bridge2.png"></center>
+					</div>
+					
+			</fieldset>
+		</div>	 
+		
+		<div data-role="footer" data-position="fixed">
+								
+			<h3> Copyright &#169; by Leon Heng  </h3>
+        </div>				
+			
+	</div>				
+
+	
+	<script src="https://www.gstatic.com/firebasejs/4.12.1/firebase.js"></script>
+	<script type="text/javascript" src="js/mobile.js"></script>
+	<script type="text/javascript" src="js/weather.js"></script>
+	<script type="text/javascript" src="js/auth.js"></script>	
+</body>
+
+</html>

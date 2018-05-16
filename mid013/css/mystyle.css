@@ -1,0 +1,153 @@
+body{
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+#leon{
+	color:white;
+	font-family: 'Rock Salt', cursive;
+}
+.yellow{
+	color:#FFFF55;
+}
+
+#sigupform{
+	text-align:center;
+	padding-top:30px;
+	margin:15px;
+}
+#one{
+	background:#7FD4FF;
+}
+.imgg img{
+	width: 100%; 
+	height: auto%;
+	position: relative;
+	
+}
+.ui-mobile label, .ui-controlgroup-label{
+	text-align:left !important;
+}
+.ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper{
+	background-color:#a2b9bc !important;
+}
+
+.setting{
+	color:white;
+}
+
+div.ui-input-search { 
+	max-width: 400px !important;
+	margin: 0 auto;
+	
+}
+
+.ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper{
+	text-align:center !important;
+}
+#center{
+	text-align:left !important;
+}
+.ui-btn-left, .ui-btn-right{
+	margin-top: 5px !important;
+    margin-left: 5px !important;
+}
+
+
+.ui-controlgroup, fieldset.ui-controlgroup{
+	text-align: right !important;
+	padding-right:10px !important;
+}
+
+#bb{
+	margin: 5px !important;
+}
+.ui-slider-switch{
+	background:#FF7F2A !important;
+	color:white !important;
+}
+#fk {
+	float:none;
+    display:table-cell;
+    vertical-align:middle;
+}
+.ui-controlgroup-horizontal .ui-btn.ui-first-child{
+	padding:3px !important;
+}
+.ui-input-search:after{
+	margin-top: -10px !important;
+	width: 20px !important;
+    height: 20px !important;
+	padding-left: 5px !important;
+}
+
+#demo{
+	text-align:center;
+	font-size:5em;
+}
+
+#city_n{
+	text-align:center;
+	font-size:3em;
+	color:white;
+}
+
+#w_id{
+	text-align:center !important;
+}
+#fTemp{
+	text-align:center !important;
+	text-align: center;
+    font-size: 5em;
+}
+#weather{
+	text-align:left;
+	font-size:2.5em;
+}
+#humidity, #windSpeed, #sunRise{
+	padding-top:15px;
+	font-size:1.5em;
+	text-align: left;
+	color:white;
+}
+
+.ui-panel-position-left.ui-panel-display-reveal, .ui-panel-open.ui-panel-position-left{
+	background:#353535;
+}
+
+@media only screen and (max-width: 670px) {
+    #w_id{
+		font-size: 10em;
+	}
+	#fTemp{
+		font-size: 2.5em;
+	}
+
+	#humidity, #windSpeed, #sunRise{
+		padding-top:5px;
+		padding-top:5px;
+		font-size:0.75em;
+	}
+
+
+@media only screen and (max-width: 415px) {
+    div.ui-input-search { 
+		max-width: 150px !important;
+		margin: 0 auto;
+	}
+	#fTemp{
+		font-size: 2em;
+	}
+	#demo{
+		font-size: 4em;
+	}
+	#w_id{
+		font-size: 8.5em;
+	}
+	#weather{
+		font-size:2em;
+		text-align:center;
+	}
+	#humidity, #windSpeed, #sunRise{
+		padding-top:5px;
+		font-size:1em;
+	}
+}
