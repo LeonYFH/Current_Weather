@@ -2,7 +2,7 @@
 ## The first practicable weather site by using the weather API
 > Leon Heng, May 12, 2018
 ## Description
-An app whcih allows user to get 
+An app whcih allows user to get information:
 ⋅⋅* Unordered sub-list.
 Desktop Resolution & Mobile Resolution
 
