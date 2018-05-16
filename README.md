@@ -15,6 +15,7 @@ Mobile Resolution
   <a href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">Jquery Mobile</a> 
 </p>
 ## File structure
+
 ⋅⋅* Unordered sub-list.
 
 <b>Tutorial</b><br>
