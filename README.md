@@ -15,8 +15,11 @@ Mobile Resolution
   <a href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">Jquery Mobile</a> 
 </p>
 <b>Jquery</b><br>
-  <a href="https://code.jquery.com/jquery-1.12.4.js">Jquery1.12.4</a> |
+  <a href="https://code.jquery.com/jquery-1.12.4.js">Jquery</a> |
   <a href="https://code.jquery.com/ui/1.12.1/jquery-ui.js">Jquery UI</a> |
   <a href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">Jquery Mobile</a> 
-  <a href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">Jquery Mobile</a> 
+<b>CSS</b><br>
+  <a href="https://code.jquery.com/jquery-1.12.4.js">Jquery</a>
+<b>Font</b><br>
+  <a href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans">IBM</a>
 
