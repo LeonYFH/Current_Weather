@@ -1,7 +1,8 @@
 # Leon's Weather 
 ### The first practicable weather site by pulling data form the Open Weather API
-> Live Demo <https://www.fstyle67.com/Fstyle67/mid012/index_mobile.html>
-> Leon Heng, May 12, 2018 <https://www.fstyle67.com/Fstyle67/index.html>
+> Live Demo <a href="https://www.fstyle67.com/Fstyle67/mid012/index_mobile.html">Link</a>
+> Leon Heng, May 12, 2018 
+> Portfolio <a href="https://www.fstyle67.com/Fstyle67/index.html">Link</a>
 > Contact Me <freestylemax0607@gmail.com>
 
 
