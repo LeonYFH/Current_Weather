@@ -16,6 +16,7 @@ An app whcih allows user to get information:
 
 ## Screen shot  
 <p>Desktop Resolution & Mobile Resolution</p>
+
 <img src="https://www.fstyle67.com/Fstyle67/m14_img/01.png" height="400px"> <img src="https://www.fstyle67.com/Fstyle67/m14_img/02.png" height="400px">
 
 
