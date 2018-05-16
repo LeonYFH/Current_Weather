@@ -3,6 +3,7 @@
 > Leon Heng, May 12, 2018
 ## Description
 An app whcih allows user to get information:
++ Location searchable
 + Current Time
 + Current Location
 + Current Location Weather
@@ -12,7 +13,7 @@ An app whcih allows user to get information:
   - Humidity
   - Sunrise time
   - Sunset time
- + Location searchable
+ 
 <p>Desktop Resolution & Mobile Resolution</p>
 
 <img src="https://www.fstyle67.com/Fstyle67/m14_img/01.png" height="400px"> <img src="https://www.fstyle67.com/Fstyle67/m14_img/02.png" height="400px">
@@ -20,7 +21,7 @@ An app whcih allows user to get information:
 
 ## File structure
 `HTML` `CSS` `JS` `JSON` `Firebase`
-## Contents 
+## HTML Contents 
 <b>API</b><br>
 <a href="https://openweathermap.org/api"> Open Weather API </a>
 
