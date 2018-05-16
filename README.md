@@ -8,8 +8,8 @@ Mobile Resolution
 <img src="https://www.fstyle67.com/Fstyle67/m14_img/02.png" height="200px">
 </p>
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
+  <b>head links</b><br>
+  <a href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">Jquery Mobile</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
