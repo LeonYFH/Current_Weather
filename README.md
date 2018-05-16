@@ -22,11 +22,14 @@ Mobile Resolution
   <a href="https://code.jquery.com/jquery-1.12.4.js">Jquery</a> |
   <a href="https://code.jquery.com/ui/1.12.1/jquery-ui.js">Jquery UI</a> |
   <a href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">Jquery Mobile</a> 
+
 <b>CSS</b><br>
   <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/css/breakpoint.css">breakpoints</a> |
   <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/css/mystyle.css">mystyle</a>
+
 <b>Font</b><br>
   <a href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans">IBM</a>
+
 <b>Weather Font</b><br>
-  <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/css/owfont-regular.css">Owfont</a>
+  <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/css/owfont-regular.css">Owfont</a> |
   <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/css/owfont-regular.min.css">Owfont.min</a>
