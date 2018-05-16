@@ -16,7 +16,7 @@ Mobile Resolution
 </p>
 <b>Tutorial</b><br>
 <a href="https://www.youtube.com/watch?v=KT6Jaxl0JM4&t=850ss">Weather API by:Uzochukwu Odozi</a> |
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 <b>Jquery</b><br>
   <a href="https://code.jquery.com/jquery-1.12.4.js">Jquery</a> |
   <a href="https://code.jquery.com/ui/1.12.1/jquery-ui.js">Jquery UI</a> |
