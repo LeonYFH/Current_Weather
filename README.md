@@ -1,5 +1,5 @@
 # Current Weather Website 
-> Leon Heng, May 12,2018
+> Leon Heng, May 12, 2018
 ### The first practicable weather site by using the weather API
 
 Desktop Resolution & Mobile Resolution
