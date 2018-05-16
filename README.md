@@ -17,6 +17,7 @@ Mobile Resolution
 <b>Tutorial</b><br>
 <a href="https://www.youtube.com/watch?v=KT6Jaxl0JM4&t=850ss"> Weather API </a> by:Uzochukwu Odozi |
 <a href="https://websygen.github.io/owfont/"> Change Weather Type Icon </a>
+
 <b>Jquery</b><br>
   <a href="https://code.jquery.com/jquery-1.12.4.js">Jquery</a> |
   <a href="https://code.jquery.com/ui/1.12.1/jquery-ui.js">Jquery UI</a> |
@@ -27,4 +28,5 @@ Mobile Resolution
 <b>Font</b><br>
   <a href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans">IBM</a>
 <b>Weather Font</b><br>
-  <a href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans">IBM</a>
+  <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/css/owfont-regular.css">Owfont</a>
+  <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/css/owfont-regular.min.css">Owfont.min</a>
