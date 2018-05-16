@@ -3,7 +3,8 @@
 > Leon Heng, May 12, 2018
 ## Description
 An app whcih allows user to get information:
-⋅⋅* Unordered sub-list.
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
 Desktop Resolution & Mobile Resolution
 
 <img src="https://www.fstyle67.com/Fstyle67/m14_img/01.png" height="400px"> <img src="https://www.fstyle67.com/Fstyle67/m14_img/02.png" height="400px">
