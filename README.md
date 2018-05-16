@@ -9,7 +9,7 @@ Desktop Resolution & Mobile Resolution
 
 ### File structure
 `HTML` `CSS` `JS` `JSON` `Firebase`
-
+## Contents 
 <b>API</b><br>
 <a href="https://openweathermap.org/api"> Open Weather API </a>
 
