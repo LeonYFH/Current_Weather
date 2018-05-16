@@ -43,3 +43,8 @@ Desktop Resolution & Mobile Resolution
 
 <b>Firebase</b><br>
   <a href="https://www.gstatic.com/firebasejs/4.12.1/firebase.js">Firebase</a>
+  
+<b>Javascript</b><br>
+  <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/js/auth.js">Auth JS</a> |
+  <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/js/mobile.js">Mobile JS</a> |
+  <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/js/weather.js">Weather JS</a> |
