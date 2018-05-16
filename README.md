@@ -7,7 +7,7 @@ Desktop Resolution & Mobile Resolution
 <img src="https://www.fstyle67.com/Fstyle67/m14_img/01.png" height="400px"> <img src="https://www.fstyle67.com/Fstyle67/m14_img/02.png" height="400px">
 
 
-### File structure
+## File structure
 `HTML` `CSS` `JS` `JSON` `Firebase`
 ## Contents 
 <b>API</b><br>
