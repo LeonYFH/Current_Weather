@@ -1,6 +1,6 @@
 # Leon's Weather 
 ### The first practicable weather site by pulling data form the Open Weather API
-> Leon Heng, May 12, 2018 <somebbob@example.com>
+> Leon Heng, May 12, 2018 <https://www.fstyle67.com/Fstyle67/index.html>
 ## Description
 An app whcih allows user to get information:
 + Location searchable
