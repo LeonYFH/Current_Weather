@@ -16,7 +16,7 @@ Mobile Resolution
 </p>
 
 ### File structure
-`HTML` `CSS` `JS` `JSON`
+`HTML` `CSS` `JS` `JSON` `Firebase`
 
 
 <b>Tutorial</b><br>
@@ -38,3 +38,6 @@ Mobile Resolution
 <b>Weather Font</b><br>
   <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/css/owfont-regular.css">Owfont</a> |
   <a href="https://github.com/LeonYFH/Current_Weather/blob/master/mid013/css/owfont-regular.min.css">Owfont.min</a>
+
+<b>Firebase</b><br>
+  <a href="https://www.gstatic.com/firebasejs/4.12.1/firebase.js">Firebase</a>
