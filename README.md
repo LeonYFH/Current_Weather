@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Current Weather Website</h1>
+<div style="text-align: center;"><h1>Current Weather Website</h1></div>
 
 <center>### The first practicable weather site by using the weather API </center>
 
