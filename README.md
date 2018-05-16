@@ -2,13 +2,11 @@
 > Leon Heng, May 12, 2018
 #### The first practicable weather site by using the weather API
 
-<p align="center">
-  Desktop Resolution & Mobile Resolution
-</p>
-<p align="center">
+Desktop Resolution & Mobile Resolution
+
 <img src="https://www.fstyle67.com/Fstyle67/m14_img/01.png" height="400px">
 <img src="https://www.fstyle67.com/Fstyle67/m14_img/02.png" height="400px">
-</p>
+
 
 ### File structure
 `HTML` `CSS` `JS` `JSON` `Firebase`
