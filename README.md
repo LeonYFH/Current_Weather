@@ -15,8 +15,8 @@ Mobile Resolution
   <a href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">Jquery Mobile</a> 
 </p>
 
-# Current Weather Website
-Inline `code` has `back-ticks around` it.
+### File structure
+`HTML` `CSS` `JS` `JSON`
 
 
 <b>Tutorial</b><br>
