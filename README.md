@@ -20,7 +20,7 @@ Mobile Resolution
 
 
 <b>Tutorial</b><br>
-<a href="https://www.youtube.com/watch?v=KT6Jaxl0JM4&t=850ss"> Weather API </a> by:Uzochukwu Odozi |
+<a href="https://www.youtube.com/watch?v=KT6Jaxl0JM4&t=850ss"> Weather API </a> |
 <a href="https://websygen.github.io/owfont/"> Change Weather Type Icon </a>
 
 <b>Jquery</b><br>
