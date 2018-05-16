@@ -18,6 +18,8 @@ Mobile Resolution
 ### File structure
 `HTML` `CSS` `JS` `JSON` `Firebase`
 
+<b>API</b><br>
+<a href="https://openweathermap.org/api"> Open Weather API </a>
 
 <b>Tutorial</b><br>
 <a href="https://www.youtube.com/watch?v=KT6Jaxl0JM4&t=850ss"> Weather API </a> |
