@@ -11,6 +11,7 @@
 
 ## Description
 An app whcih allows user to get information:
++ SignUp, Login, SinOut
 + Location searchable
 + Current Time
 + Current Location
